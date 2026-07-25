@@ -105,3 +105,45 @@ Sort the results from the most recent order to the oldest.
 The stored procedure should also return a clear message when the customer does not exist or has not placed any orders.
 
 --- 
+
+
+```sql
+
+CREATE PROCEDURE GetCustomerOrders
+    @CustomerID INT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    IF NOT EXISTS (
+        SELECT 1
+        FROM customers
+        WHERE customer_id = @CustomerID
+    )
+    BEGIN
+        THROW 50001, 'The customer does not exist.', 1;
+    END;
+
+    IF NOT EXISTS (
+        SELECT 1
+        FROM orders
+        WHERE customer_id = @CustomerID
+    )
+    BEGIN
+        THROW 50002, 'The customer has not placed any orders.', 1;
+    END;
+
+    SELECT
+        c.customer_id,
+        c.customer_name,
+        o.order_id,
+        o.order_date,
+        o.total_amount,
+        o.order_status
+    FROM customers AS c
+    INNER JOIN orders AS o
+        ON c.customer_id = o.customer_id
+    WHERE c.customer_id = @CustomerID
+    ORDER BY o.order_date DESC;
+END;
+```
