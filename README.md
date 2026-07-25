@@ -83,3 +83,25 @@ Your query should display:
 Sort the results from the customer with the highest number of orders to the lowest.
 
 --- 
+
+### **Question 5: Get Customer Orders Using a Stored Procedure**
+--- 
+
+Create a stored procedure named `GetCustomerOrders` that accepts a customer ID as a parameter and returns all orders placed by that customer.
+
+### **Required Output**
+
+The stored procedure should display:
+
+* Customer ID
+* Customer name
+* Order ID
+* Order date
+* Total amount
+* Order status
+
+Sort the results from the most recent order to the oldest.
+
+The stored procedure should also return a clear message when the customer does not exist or has not placed any orders.
+
+--- 
