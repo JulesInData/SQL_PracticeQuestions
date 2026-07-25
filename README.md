@@ -64,3 +64,22 @@ Your query should display:
 Sort the results from the status with the highest number of orders to the lowest.
 
 ---
+
+
+### **Question 4: Find Customers with Orders**
+
+----
+
+Using a **Common Table Expression (CTE)**, display customers who have placed at least one order.
+
+### **Required Output**
+
+Your query should display:
+
+* Customer ID
+* Customer name
+* Number of orders
+
+Sort the results from the customer with the highest number of orders to the lowest.
+
+--- 
