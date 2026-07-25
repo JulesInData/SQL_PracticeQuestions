@@ -1,0 +1,351 @@
+product_id,product_name,category,price,stock_quantity
+1,Urban Wallet 1,Fashion,24892.01,115
+2,Nova Kettle 2,Home,72076.32,230
+3,Vertex Keyboard 3,Electronics,125028.58,121
+4,Urban Wallet 4,Fashion,1578.26,66
+5,Orbit Lamp 5,Home,102909.54,186
+6,Prime Wallet 6,Fashion,109126.54,125
+7,Apex Storage Box 7,Home,123461.91,38
+8,Nova Desk 8,Home,143286.97,427
+9,Vertex Skipping Rope 9,Fitness,99828.21,437
+10,Elite Storage Box 10,Home,4364.70,275
+11,Elite Desk 11,Home,134482.08,352
+12,Swift Monitor 12,Electronics,99345.02,458
+13,Swift Mouse 13,Electronics,64483.16,369
+14,Prime Dumbbell Set 14,Fitness,984.94,462
+15,Prime Desk 15,Home,102761.22,236
+16,Orbit Blender 16,Home,17394.93,383
+17,Prime Sneakers 17,Fashion,56339.64,208
+18,Apex Chair 18,Home,113904.50,27
+19,Nova Yoga Mat 19,Fitness,147435.86,215
+20,Prime Chair 20,Home,20804.98,331
+21,Orbit Dumbbell Set 21,Fitness,33026.40,355
+22,Nova Marker Set 22,Office,105811.36,208
+23,Swift Blender 23,Home,46839.01,29
+24,Urban Kettle 24,Home,8381.51,416
+25,Prime File Folder 25,Office,59854.26,444
+26,Swift Storage Box 26,Home,35685.10,63
+27,Prime T-Shirt 27,Fashion,130555.92,376
+28,Nova Stapler 28,Office,130147.37,373
+29,Urban Keyboard 29,Electronics,42439.60,422
+30,Prime Wallet 30,Fashion,58312.36,289
+31,Swift File Folder 31,Office,111516.41,81
+32,Vertex Monitor 32,Electronics,36838.07,276
+33,Orbit Printer Paper 33,Office,83664.68,213
+34,Prime Blender 34,Home,126350.79,226
+35,Apex Headphones 35,Electronics,73481.20,461
+36,Vertex Calculator 36,Office,15183.42,179
+37,Nova Marker Set 37,Office,99707.63,288
+38,Apex Headphones 38,Electronics,72602.61,32
+39,Urban Webcam 39,Electronics,134779.64,319
+40,Orbit Printer Paper 40,Office,20127.64,369
+41,Prime Dumbbell Set 41,Fitness,60753.36,213
+42,Elite Kettle 42,Home,122781.00,138
+43,Nova Laptop 43,Electronics,144807.75,104
+44,Apex Printer Paper 44,Office,4881.58,438
+45,Apex T-Shirt 45,Fashion,40579.50,222
+46,Prime Calculator 46,Office,25684.08,40
+47,Nova Gym Bag 47,Fitness,84141.60,229
+48,Urban Chair 48,Home,122797.86,392
+49,Urban Router 49,Electronics,126259.60,247
+50,Vertex Marker Set 50,Office,136127.87,383
+51,Nova Notebook 51,Office,17769.60,240
+52,Orbit Lamp 52,Home,68968.20,334
+53,Swift Blender 53,Home,93932.44,296
+54,Apex Jacket 54,Fashion,117929.23,479
+55,Apex Marker Set 55,Office,131887.83,20
+56,Swift Fan 56,Home,75750.38,499
+57,Swift Mouse 57,Electronics,48547.80,498
+58,Apex Skipping Rope 58,Fitness,31229.73,147
+59,Prime Calculator 59,Office,10302.43,176
+60,Prime Watch 60,Fashion,20690.12,480
+61,Orbit Lamp 61,Home,24066.25,310
+62,Swift Blender 62,Home,47597.71,421
+63,Elite Skipping Rope 63,Fitness,3152.11,201
+64,Elite Monitor 64,Electronics,71461.56,266
+65,Apex Desk 65,Home,4715.82,436
+66,Swift Calculator 66,Office,93050.84,179
+67,Orbit Printer Paper 67,Office,6918.04,170
+68,Apex Monitor 68,Electronics,93152.79,399
+69,Prime Stapler 69,Office,88392.06,418
+70,Nova Dumbbell Set 70,Fitness,38792.66,433
+71,Apex Router 71,Electronics,39555.41,81
+72,Elite Watch 72,Fashion,143295.70,315
+73,Vertex Chair 73,Home,91936.04,145
+74,Swift Dumbbell Set 74,Fitness,81836.76,253
+75,Apex Lamp 75,Home,1949.68,451
+76,Vertex Keyboard 76,Electronics,20304.76,499
+77,Urban Desk 77,Home,17449.90,438
+78,Prime Dumbbell Set 78,Fitness,126469.03,394
+79,Vertex Jacket 79,Fashion,94979.99,310
+80,Orbit Router 80,Electronics,103948.50,349
+81,Urban Mouse 81,Electronics,84197.69,305
+82,Prime Chair 82,Home,98808.95,93
+83,Prime Dumbbell Set 83,Fitness,75205.42,461
+84,Orbit Fan 84,Home,116406.54,264
+85,Apex Resistance Band 85,Fitness,149044.67,90
+86,Urban Desk 86,Home,114678.78,167
+87,Prime Jacket 87,Fashion,46478.86,33
+88,Vertex Router 88,Electronics,146809.87,343
+89,Apex Stapler 89,Office,110402.65,207
+90,Swift Gym Bag 90,Fitness,37415.93,156
+91,Apex Router 91,Electronics,29948.15,57
+92,Nova Jacket 92,Fashion,46747.85,117
+93,Orbit Jacket 93,Fashion,100985.29,27
+94,Nova Storage Box 94,Home,1806.20,306
+95,Apex Gym Bag 95,Fitness,36000.93,372
+96,Elite T-Shirt 96,Fashion,139618.86,278
+97,Swift Chair 97,Home,77484.32,469
+98,Prime Dumbbell Set 98,Fitness,42187.11,184
+99,Elite Cap 99,Fashion,15250.08,423
+100,Elite Notebook 100,Office,66564.12,335
+101,Vertex Monitor 101,Electronics,130913.20,114
+102,Prime Keyboard 102,Electronics,59543.89,37
+103,Nova Backpack 103,Fashion,117496.00,191
+104,Prime Keyboard 104,Electronics,19311.38,464
+105,Nova Wallet 105,Fashion,8054.63,418
+106,Swift Fitness Tracker 106,Fitness,46708.93,212
+107,Urban Water Bottle 107,Fitness,63296.49,159
+108,Elite Mouse 108,Electronics,52185.95,471
+109,Elite Keyboard 109,Electronics,91864.34,380
+110,Vertex Monitor 110,Electronics,99951.57,46
+111,Nova Desk Organiser 111,Office,111733.95,429
+112,Urban Fitness Tracker 112,Fitness,22245.47,475
+113,Apex Monitor 113,Electronics,122373.52,256
+114,Vertex Notebook 114,Office,79044.86,365
+115,Orbit T-Shirt 115,Fashion,46148.07,463
+116,Apex Monitor 116,Electronics,51380.72,230
+117,Swift Stapler 117,Office,148619.99,451
+118,Prime Gym Bag 118,Fitness,57940.36,96
+119,Orbit Headphones 119,Electronics,100984.34,357
+120,Orbit Keyboard 120,Electronics,12742.34,82
+121,Elite Headphones 121,Electronics,113567.22,315
+122,Prime Laptop 122,Electronics,17138.08,390
+123,Elite Router 123,Electronics,37308.86,380
+124,Elite Kettle 124,Home,94230.73,416
+125,Apex Wallet 125,Fashion,51500.46,434
+126,Nova Gym Bag 126,Fitness,111175.85,127
+127,Urban Router 127,Electronics,28504.90,247
+128,Nova Desk Organiser 128,Office,4743.83,170
+129,Swift Gym Bag 129,Fitness,44023.51,498
+130,Apex Monitor 130,Electronics,121587.96,489
+131,Urban Water Bottle 131,Fitness,141129.00,396
+132,Swift Notebook 132,Office,105966.91,179
+133,Urban Skipping Rope 133,Fitness,17530.70,343
+134,Orbit Desk Organiser 134,Office,138760.33,362
+135,Elite Lamp 135,Home,47800.72,315
+136,Swift Dumbbell Set 136,Fitness,49484.65,187
+137,Orbit Calculator 137,Office,87985.89,128
+138,Swift T-Shirt 138,Fashion,136315.69,225
+139,Apex Marker Set 139,Office,114094.66,337
+140,Orbit Headphones 140,Electronics,127707.01,493
+141,Elite Printer Paper 141,Office,63844.84,39
+142,Apex Resistance Band 142,Fitness,141998.10,467
+143,Prime Gym Bag 143,Fitness,35710.52,302
+144,Prime Skipping Rope 144,Fitness,89757.06,57
+145,Orbit Jacket 145,Fashion,115173.09,456
+146,Apex Stapler 146,Office,105310.18,201
+147,Elite Skipping Rope 147,Fitness,91794.19,24
+148,Orbit Desk Organiser 148,Office,19120.52,252
+149,Apex Cap 149,Fashion,94400.32,349
+150,Urban Backpack 150,Fashion,15645.66,107
+151,Apex Kettle 151,Home,133041.44,422
+152,Elite Calculator 152,Office,74640.40,474
+153,Apex Sneakers 153,Fashion,22221.15,127
+154,Prime Calculator 154,Office,8093.33,105
+155,Swift Desk 155,Home,93801.76,403
+156,Swift Yoga Mat 156,Fitness,83721.91,357
+157,Nova Headphones 157,Electronics,76661.08,309
+158,Swift Dumbbell Set 158,Fitness,54957.38,382
+159,Swift T-Shirt 159,Fashion,105488.50,327
+160,Orbit Sneakers 160,Fashion,41956.84,117
+161,Prime Sneakers 161,Fashion,143891.82,249
+162,Urban Backpack 162,Fashion,14630.95,261
+163,Urban Skipping Rope 163,Fitness,90774.04,72
+164,Vertex Fan 164,Home,30076.69,347
+165,Urban File Folder 165,Office,88546.97,343
+166,Apex Sneakers 166,Fashion,21203.27,308
+167,Nova Jacket 167,Fashion,115137.78,343
+168,Swift Calculator 168,Office,66230.09,183
+169,Swift Mouse 169,Electronics,97517.06,190
+170,Swift Fitness Tracker 170,Fitness,85595.62,377
+171,Nova Chair 171,Home,11785.22,63
+172,Vertex Desk 172,Home,74012.09,156
+173,Swift Dumbbell Set 173,Fitness,52137.04,68
+174,Urban Webcam 174,Electronics,34432.50,212
+175,Urban Storage Box 175,Home,61700.82,72
+176,Urban T-Shirt 176,Fashion,107962.09,166
+177,Prime File Folder 177,Office,63488.08,298
+178,Swift Backpack 178,Fashion,97720.00,163
+179,Urban Printer Paper 179,Office,36132.50,363
+180,Orbit Marker Set 180,Office,48123.69,89
+181,Swift Printer Paper 181,Office,147609.41,355
+182,Urban Marker Set 182,Office,119496.36,201
+183,Urban Chair 183,Home,107765.03,22
+184,Swift Skipping Rope 184,Fitness,66678.35,335
+185,Urban Calculator 185,Office,100394.92,174
+186,Orbit Water Bottle 186,Fitness,58116.02,485
+187,Swift Water Bottle 187,Fitness,141809.79,483
+188,Elite Gym Bag 188,Fitness,141504.44,235
+189,Apex Laptop 189,Electronics,132987.52,162
+190,Urban Notebook 190,Office,101946.62,20
+191,Elite Resistance Band 191,Fitness,13340.17,166
+192,Elite Lamp 192,Home,579.81,158
+193,Elite Laptop 193,Electronics,84998.20,86
+194,Elite Lamp 194,Home,2614.41,287
+195,Orbit Headphones 195,Electronics,82956.18,310
+196,Urban Skipping Rope 196,Fitness,147882.71,25
+197,Elite File Folder 197,Office,102276.72,366
+198,Prime Cap 198,Fashion,130910.82,128
+199,Elite Fan 199,Home,8432.16,205
+200,Nova Gym Bag 200,Fitness,96671.03,353
+201,Swift Webcam 201,Electronics,20159.01,451
+202,Elite Blender 202,Home,20660.43,99
+203,Apex Kettle 203,Home,73953.78,210
+204,Swift Yoga Mat 204,Fitness,124538.43,154
+205,Elite Backpack 205,Fashion,37006.09,56
+206,Urban Router 206,Electronics,128489.16,427
+207,Vertex Sneakers 207,Fashion,27564.65,129
+208,Urban Kettle 208,Home,43114.04,144
+209,Nova Keyboard 209,Electronics,51052.51,480
+210,Nova Skipping Rope 210,Fitness,20748.37,128
+211,Orbit Desk Organiser 211,Office,128685.40,254
+212,Orbit Chair 212,Home,120774.44,296
+213,Elite Desk Organiser 213,Office,108480.98,460
+214,Nova Watch 214,Fashion,90537.94,261
+215,Elite Printer Paper 215,Office,119943.02,338
+216,Nova Backpack 216,Fashion,90228.38,397
+217,Vertex Monitor 217,Electronics,133295.03,157
+218,Prime Jacket 218,Fashion,35348.49,172
+219,Swift Cap 219,Fashion,11508.34,276
+220,Nova Kettle 220,Home,105757.43,379
+221,Swift Backpack 221,Fashion,112485.61,243
+222,Elite Router 222,Electronics,113745.46,304
+223,Orbit T-Shirt 223,Fashion,87604.97,52
+224,Apex Headphones 224,Electronics,61087.43,92
+225,Orbit Mouse 225,Electronics,32141.51,473
+226,Prime Storage Box 226,Home,142048.44,91
+227,Orbit Resistance Band 227,Fitness,82845.89,358
+228,Orbit Storage Box 228,Home,106636.91,60
+229,Urban Resistance Band 229,Fitness,49157.72,202
+230,Orbit Resistance Band 230,Fitness,29219.34,114
+231,Apex Backpack 231,Fashion,124499.75,24
+232,Vertex Calculator 232,Office,115724.60,448
+233,Swift Jacket 233,Fashion,133095.26,399
+234,Orbit Fitness Tracker 234,Fitness,49692.24,135
+235,Elite Calculator 235,Office,2470.58,157
+236,Orbit Wallet 236,Fashion,89499.33,340
+237,Swift Laptop 237,Electronics,126369.15,473
+238,Nova Cap 238,Fashion,113862.30,47
+239,Vertex Sneakers 239,Fashion,50218.98,357
+240,Vertex Headphones 240,Electronics,115747.14,114
+241,Swift Resistance Band 241,Fitness,43534.78,385
+242,Nova Stapler 242,Office,51869.85,451
+243,Nova Marker Set 243,Office,54029.36,454
+244,Prime Skipping Rope 244,Fitness,14457.53,450
+245,Orbit File Folder 245,Office,76242.66,380
+246,Vertex Watch 246,Fashion,146955.46,432
+247,Prime Chair 247,Home,147870.22,168
+248,Vertex Printer Paper 248,Office,13234.46,398
+249,Vertex Fan 249,Home,146973.21,224
+250,Urban Wallet 250,Fashion,89424.85,60
+251,Orbit Blender 251,Home,69049.69,42
+252,Prime Webcam 252,Electronics,142352.23,237
+253,Nova Resistance Band 253,Fitness,55654.07,124
+254,Vertex T-Shirt 254,Fashion,73137.59,148
+255,Elite T-Shirt 255,Fashion,105318.60,366
+256,Urban Storage Box 256,Home,52202.19,497
+257,Orbit Marker Set 257,Office,30118.68,420
+258,Apex Stapler 258,Office,124986.59,144
+259,Elite Desk Organiser 259,Office,102850.59,39
+260,Apex Lamp 260,Home,36567.00,227
+261,Orbit Headphones 261,Electronics,26934.50,352
+262,Elite Fitness Tracker 262,Fitness,84148.88,240
+263,Orbit Monitor 263,Electronics,132219.37,373
+264,Apex Laptop 264,Electronics,105840.72,240
+265,Prime T-Shirt 265,Fashion,145754.22,20
+266,Nova Dumbbell Set 266,Fitness,87375.78,314
+267,Swift Marker Set 267,Office,48399.13,262
+268,Elite Calculator 268,Office,39197.37,446
+269,Vertex T-Shirt 269,Fashion,49639.08,393
+270,Elite Kettle 270,Home,106940.52,246
+271,Urban Chair 271,Home,23045.97,267
+272,Nova Stapler 272,Office,45247.90,56
+273,Vertex Skipping Rope 273,Fitness,106872.07,283
+274,Swift Printer Paper 274,Office,15383.47,70
+275,Orbit Gym Bag 275,Fitness,58436.06,341
+276,Nova Sneakers 276,Fashion,115145.16,342
+277,Swift Dumbbell Set 277,Fitness,7177.59,345
+278,Urban Mouse 278,Electronics,62757.57,450
+279,Vertex Water Bottle 279,Fitness,134864.16,104
+280,Elite Fitness Tracker 280,Fitness,19911.43,310
+281,Apex Water Bottle 281,Fitness,19944.18,370
+282,Swift Kettle 282,Home,103136.52,211
+283,Orbit Desk 283,Home,6780.73,274
+284,Prime Dumbbell Set 284,Fitness,57023.76,202
+285,Prime Storage Box 285,Home,43830.24,366
+286,Nova Jacket 286,Fashion,44861.81,133
+287,Elite Backpack 287,Fashion,97110.33,135
+288,Nova Fitness Tracker 288,Fitness,52846.37,349
+289,Apex Fan 289,Home,717.41,205
+290,Prime Water Bottle 290,Fitness,71155.91,301
+291,Swift File Folder 291,Office,112850.40,134
+292,Apex Blender 292,Home,121789.41,156
+293,Urban T-Shirt 293,Fashion,139397.71,307
+294,Swift Blender 294,Home,113430.49,391
+295,Swift Mouse 295,Electronics,40684.77,489
+296,Nova Yoga Mat 296,Fitness,41913.09,395
+297,Nova Router 297,Electronics,41219.89,256
+298,Vertex Monitor 298,Electronics,90804.69,123
+299,Vertex Printer Paper 299,Office,133901.51,389
+300,Prime Resistance Band 300,Fitness,121982.59,24
+301,Swift File Folder 301,Office,48345.41,116
+302,Urban Stapler 302,Office,63707.31,132
+303,Swift Cap 303,Fashion,92212.11,81
+304,Nova Chair 304,Home,146401.23,409
+305,Apex Chair 305,Home,82603.04,427
+306,Orbit Desk Organiser 306,Office,74755.47,79
+307,Apex Resistance Band 307,Fitness,147724.40,225
+308,Vertex Dumbbell Set 308,Fitness,120725.95,242
+309,Swift Lamp 309,Home,101639.71,242
+310,Elite Marker Set 310,Office,143168.98,281
+311,Orbit Chair 311,Home,22411.69,284
+312,Elite Water Bottle 312,Fitness,16464.27,421
+313,Prime Monitor 313,Electronics,58083.33,138
+314,Apex Watch 314,Fashion,127113.09,175
+315,Nova Blender 315,Home,41241.01,257
+316,Urban Printer Paper 316,Office,106221.70,431
+317,Urban Webcam 317,Electronics,138286.55,415
+318,Urban Water Bottle 318,Fitness,144863.17,187
+319,Nova Headphones 319,Electronics,65167.89,263
+320,Swift Marker Set 320,Office,65517.72,103
+321,Urban Notebook 321,Office,137735.77,478
+322,Apex Marker Set 322,Office,127498.60,444
+323,Elite Monitor 323,Electronics,138529.22,68
+324,Prime Headphones 324,Electronics,2676.22,329
+325,Prime T-Shirt 325,Fashion,18964.72,259
+326,Vertex Monitor 326,Electronics,68430.40,32
+327,Urban Notebook 327,Office,15709.17,341
+328,Elite Calculator 328,Office,104609.01,204
+329,Orbit File Folder 329,Office,136210.53,166
+330,Elite Headphones 330,Electronics,112466.59,495
+331,Orbit Watch 331,Fashion,125909.69,81
+332,Nova Lamp 332,Home,137975.15,495
+333,Orbit Notebook 333,Office,121986.59,21
+334,Orbit Storage Box 334,Home,139591.72,91
+335,Vertex Fan 335,Home,70108.45,159
+336,Prime Stapler 336,Office,125758.80,263
+337,Vertex Printer Paper 337,Office,65660.79,267
+338,Apex Fan 338,Home,100399.07,337
+339,Swift Headphones 339,Electronics,118322.83,294
+340,Orbit Watch 340,Fashion,147084.18,156
+341,Urban Blender 341,Home,1427.12,361
+342,Orbit Monitor 342,Electronics,130996.95,59
+343,Urban Fitness Tracker 343,Fitness,95938.73,267
+344,Apex Notebook 344,Office,37652.07,336
+345,Prime Desk Organiser 345,Office,74488.11,451
+346,Elite Wallet 346,Fashion,5702.57,230
+347,Orbit Monitor 347,Electronics,60206.22,62
+348,Apex Resistance Band 348,Fitness,33054.44,420
+349,Vertex Printer Paper 349,Office,98543.48,32
+350,Apex Calculator 350,Office,97184.42,99
