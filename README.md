@@ -48,7 +48,7 @@ Use a second CTE or a window function to rank products within each category from
 
 ---
 
-### **Question 2: Count Orders by Status**
+### **Question 3: Count Orders by Status**
 
 ---
 
